@@ -10,6 +10,7 @@ This repository contains the code and related files for the first assignment of 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
+- [Contributions](#contributions)
 - [License](#license)
 
 ## Overview
@@ -68,6 +69,10 @@ NLP_Assignment-1/
 ├── Data Pre-processing/     # Scripts for cleaning and preprocessing the scraped text data
 ├── README.md                # Project documentation
 ```
+
+## Contributions
+
+Contributions made by each team member are mentioned at the top of each Jupyter Notebook.
 
 ## License
 
